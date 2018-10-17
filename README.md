@@ -16,4 +16,5 @@ After this, run DatasetTrainner.py to build a model. Script automaticaly save mo
 
 Then, run Detecter.py to detect and recognize your face by using your weebcam. 
 
+
 Thank you...!
